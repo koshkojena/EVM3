@@ -1,0 +1,8 @@
+
+ Start  Stop   Length Name               Class
+
+ 00000H 00098H 00099H _TEXT              CODE
+ 0009AH 001D2H 00139H _DATA              DATA
+
+Fatal: Cannot generate COM file : segment-relocatable items present in module 33.ASM
+
